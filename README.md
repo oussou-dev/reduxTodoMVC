@@ -1,2 +1,0 @@
-# reduxTodoMVC
-Created with CodeSandbox
